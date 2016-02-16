@@ -1,5 +1,4 @@
-#Numerical Methods 
-http://eisc.correounivalle.edu.co/
+#Numerical Methods http://eisc.correounivalle.edu.co/
 
 #Introduction
 
