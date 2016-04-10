@@ -2,7 +2,7 @@
 // inputs:
 // x: value for evaluation
 // iter: number of iterations
-// outpus:
+// outputs:
 // aprox: aproximation of exponencial of value x
 // ea: aproximate error
 function [aprox,ea] = exponentialEstimation(x,iter)
