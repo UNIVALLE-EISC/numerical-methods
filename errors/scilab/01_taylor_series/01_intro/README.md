@@ -6,6 +6,6 @@
 
 ![][2]
 
-[1]: https://github.com/UNIVALLE-EISC/numerical-methods/blob/master/errors/scilab/01_taylor_series/01_intro/images/scinotes.png
+[1]: images/scinotes.png
 [2]: images/console.png
 
