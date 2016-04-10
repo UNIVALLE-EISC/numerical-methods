@@ -6,6 +6,6 @@
 
 ![][2]
 
-[1]: images/scinotes.png
-[2]: images/console.png
+[1]: .images/scinotes.png
+[2]: .images/console.png
 
