@@ -6,11 +6,11 @@ This is the repository of source code for the practices of the numerical methods
  
 The following topics are study in the course:
 * [Round and Truncation Errors] 
-(https://github.com/UNIVALLE-EISC/numerical-methods/tree/master/01_errors/scilab)
+(https://github.com/UNIVALLE-EISC/numerical-methods/tree/master/scilab_code/01_errors/scilab)
 * [Root Finding]
-(https://github.com/UNIVALLE-EISC/numerical-methods/tree/master/02_root_finding/scilab)
+(https://github.com/UNIVALLE-EISC/numerical-methods/tree/master/scilab_code/02_root_finding/scilab)
 * [Optimization]
-(https://github.com/UNIVALLE-EISC/numerical-methods/tree/master/03_optimization/scilab)
+(https://github.com/UNIVALLE-EISC/numerical-methods/tree/master/scilab_code/03_optimization/scilab)
 * Linear and Non Linear Systems
 * Regression and Interpolation
 * Numerical derivation and integration
