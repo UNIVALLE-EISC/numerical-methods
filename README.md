@@ -1,6 +1,6 @@
-#Numerical Methods http://eisc.correounivalle.edu.co/
+### Numerical Methods http://eisc.correounivalle.edu.co/
 
-#Introduction
+#### Introduction
 
 This is the repository of source code for the practices of the numerical methods course. In this course students learn about the principles for solving problems using numerical methods techniques and how to implement them using the software scilab 
  
